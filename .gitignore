@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+history.db
+intelligence.db
+
+# Logs
+*.log
+tunnel.log
+persistence_check.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+dexscreener_latest.json
+raydium_test.json
+test_pump.json
+data/
+reports/
+node_modules/
+dist/
+.agent/
+.gemini/
+.agent_knowledge/
+openspec/
+
+# Vercel
+.vercel/
+.vercel

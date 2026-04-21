@@ -1,0 +1,9 @@
+python-telegram-bot
+fastapi
+uvicorn
+huey
+requests
+textblob
+vaderSentiment
+python-dotenv
+redis
